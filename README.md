@@ -1,4 +1,3 @@
-![Screenshot (4)](https://github.com/MukeshKr55/flight-booking/assets/68548372/dd41bca0-67c7-48a8-b1b6-e9e11a8a638e)
 # Online Flight Booking
 The website provides a convenient platform for users to book tickets for various available flights. With our intuitive user interface, customers can easily select and book multiple tickets for their desired flights.
 
