@@ -1,3 +1,4 @@
+![Screenshot (4)](https://github.com/MukeshKr55/flight-booking/assets/68548372/dd41bca0-67c7-48a8-b1b6-e9e11a8a638e)
 # Online Flight Booking
 The website provides a convenient platform for users to book tickets for various available flights. With our intuitive user interface, customers can easily select and book multiple tickets for their desired flights.
 
@@ -14,3 +15,8 @@ Backend:Django
 Frontend:HTML5,CSS,Bootstrap,JS
 
 Database:db.sqlite3
+
+# Results
+![Screenshot (4)](https://github.com/MukeshKr55/flight-booking/assets/68548372/068c796c-008d-4074-89c1-667d0d75d730)
+![Screenshot (5)](https://github.com/MukeshKr55/flight-booking/assets/68548372/975effd1-3e0b-44bb-95ff-e89e5d71b726)
+![Screenshot (6)](https://github.com/MukeshKr55/flight-booking/assets/68548372/f79eb601-0980-47e4-ace2-00dfd6d9e677)
